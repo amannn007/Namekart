@@ -1,0 +1,17 @@
+/* src/index.css */
+body {
+  background-color: #e0f7fa;
+  font-family: 'Roboto', sans-serif;
+}
+
+h4 {
+  color: #333;
+}
+
+#chart svg {
+  margin: 0 auto;
+}
+
+select {
+  margin: 10px;
+}

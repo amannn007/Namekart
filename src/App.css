@@ -1,0 +1,18 @@
+/* src/App.css */
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f4f4f4;
+}
+
+h4 {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+#chart svg {
+  margin: 0 auto;
+}
+
+select {
+  margin: 10px;
+}
